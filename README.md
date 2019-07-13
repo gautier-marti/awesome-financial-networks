@@ -60,6 +60,10 @@ A curated list of relevant papers from [A review of two decades of correlations,
 
 #### Portfolio construction
 
+- [Spread of risk across financial markets: better to invest in the peripheries](https://www.nature.com/articles/srep01665)
+- [Cluster analysis for portfolio optimization](https://arxiv.org/abs/physics/0507006)
+- [Portfolio selection based on graphs: Does it align with Markowitz-optimal portfolios?](https://www.degruyter.com/downloadpdf/j/demo.2018.6.issue-1/demo-2018-0004/demo-2018-0004.pdf)
+
 
 #### Trading strategies
 
