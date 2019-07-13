@@ -67,6 +67,8 @@ A curated list of relevant papers from [A review of two decades of correlations,
 
 #### Trading strategies
 
+- [Interplay between past market correlation structure changes and future volatility outbursts](https://www.nature.com/articles/srep36320)
+- [Anticipating Abrupt Changes in Complex Networks: Significant Falls in the Price of a Stock Index](https://link.springer.com/chapter/10.1007/978-3-319-66766-9_11)
 
 
 ## Codes
