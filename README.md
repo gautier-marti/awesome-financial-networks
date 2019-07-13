@@ -5,19 +5,28 @@ A curated list of awesome financial networks resources.
 
 ## Contents
 
-- [Tutorials](#Tutorials)
-
 - [Papers](#Papers)
+
+- [Tutorials](#Tutorials)
 
 - [Codes](#Codes)
 
-
-## Tutorials
 
 
 ## Papers
 
 A curated list of relevant papers from [A review of two decades of correlations, hierarchies, networks and clustering in financial markets](https://arxiv.org/abs/1703.00485).
+
+If this work is useful in your research, you may want to cite
+```
+@article{marti2017review,
+  title={A review of two decades of correlations, hierarchies, networks and clustering in financial markets},
+  author={Marti, Gautier and Nielsen, Frank and Bi{\'n}kowski, Miko{\l}aj and Donnat, Philippe},
+  journal={arXiv preprint arXiv:1703.00485},
+  year={2017}
+}
+
+```
 
 ### Methodology and algorithms
 
@@ -71,20 +80,11 @@ A curated list of relevant papers from [A review of two decades of correlations,
 - [Anticipating Abrupt Changes in Complex Networks: Significant Falls in the Price of a Stock Index](https://link.springer.com/chapter/10.1007/978-3-319-66766-9_11)
 
 
+## Tutorials
+
+
 ## Codes
 
 - [NetworkX](https://networkx.github.io/)
 - [Gephi](https://gephi.org/)
-
-
-If this work is useful in your research, you may want to cite
-```
-@article{marti2017review,
-  title={A review of two decades of correlations, hierarchies, networks and clustering in financial markets},
-  author={Marti, Gautier and Nielsen, Frank and Bi{\'n}kowski, Miko{\l}aj and Donnat, Philippe},
-  journal={arXiv preprint arXiv:1703.00485},
-  year={2017}
-}
-
-```
 
