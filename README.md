@@ -27,6 +27,11 @@ A curated list of relevant papers from [A review of two decades of correlations,
 - [Network Filtering for Big Data: Triangulated Maximally Filtered Graph](https://arxiv.org/abs/1505.02445)
 
 
+### Statistical validation
+
+- [Bootstrap validation of links of a minimum spanning tree](https://arxiv.org/abs/1802.03395)
+- [Clustering Financial Time Series: How Long Is Enough?](https://www.ijcai.org/Proceedings/16/Papers/367.pdf)
+
 ### Different types of financial networks
 
 #### Supply chain networks
@@ -48,6 +53,7 @@ A curated list of relevant papers from [A review of two decades of correlations,
 
 - [Information Linkages and Correlated Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=970070)
 - [Investor Networks in the Stock Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1784007)
+- [Multilayer Aggregation with Statistical Validation: Application to Investor Networks](https://www.nature.com/articles/s41598-018-26575-2)
 
 
 ### Applications
@@ -56,6 +62,7 @@ A curated list of relevant papers from [A review of two decades of correlations,
 
 
 #### Trading strategies
+
 
 
 ## Codes
