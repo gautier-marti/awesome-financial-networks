@@ -78,6 +78,7 @@ If this work is useful in your research, you may want to cite
 - [Spread of risk across financial markets: better to invest in the peripheries](https://www.nature.com/articles/srep01665)
 - [Cluster analysis for portfolio optimization](https://arxiv.org/abs/physics/0507006)
 - [Portfolio selection based on graphs: Does it align with Markowitz-optimal portfolios?](https://www.degruyter.com/downloadpdf/j/demo.2018.6.issue-1/demo-2018-0004/demo-2018-0004.pdf)
+- [The Hierarchical Equal Risk Contribution Portfolio](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3237540)
 
 
 #### Trading strategies
@@ -88,8 +89,12 @@ If this work is useful in your research, you may want to cite
 
 #### Study of systemic risk
 
+- [Networks of Economic Market Interdependence and Systemic Risk](https://arxiv.org/abs/1011.3707)
 
 #### Risk management methods
+
+- [Parsimonious modeling with Information Filtering Networks](https://arxiv.org/abs/1602.07349)
+
 
 
 ## Tutorials
