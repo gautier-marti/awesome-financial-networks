@@ -82,6 +82,16 @@ If this work is useful in your research, you may want to cite
 
 ## Tutorials
 
+- [Study of US Stocks Correlations, Hierarchies and Clusters](http://gautier.marti.ai/ml/2017/07/24/US-Stocks-correlations.html)
+- [How to sort a distance matrix](http://gautier.marti.ai/ml/2017/09/07/how-to-sort-distance-matrix.html)
+- [How to compute the Planar Maximally Filtered Graph (PMFG)](http://gautier.marti.ai/networks/2018/06/03/pmfg-algorithm.html)
+- [Hierarchical Risk Parity - Implementation & Experiments (Part I)](http://gautier.marti.ai/qfin/2018/10/02/hierarchical-risk-parity-part-1.html)
+- [Hierarchical Risk Parity - Implementation & Experiments (Part II)](http://gautier.marti.ai/qfin/2018/10/15/hierarchical-risk-parity-part-2.html)
+- [Network-based vs. Minimum Variance portfolios: Any deep connections?](http://gautier.marti.ai/qfin/2018/10/10/centrality-network-portfolios.html)
+
+
+
+
 
 ## Codes
 
