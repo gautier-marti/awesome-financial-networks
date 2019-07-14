@@ -65,6 +65,12 @@ If this work is useful in your research, you may want to cite
 - [Multilayer Aggregation with Statistical Validation: Application to Investor Networks](https://www.nature.com/articles/s41598-018-26575-2)
 
 
+#### Correlation networks
+
+- [Topology of correlation based minimal spanning trees in real and model markets](https://arxiv.org/abs/cond-mat/0211546)
+- [Dynamics of market correlations: Taxonomy and portfolio analysis](https://arxiv.org/abs/cond-mat/0302546)
+
+
 ### Applications
 
 #### Portfolio construction
@@ -78,6 +84,12 @@ If this work is useful in your research, you may want to cite
 
 - [Interplay between past market correlation structure changes and future volatility outbursts](https://www.nature.com/articles/srep36320)
 - [Anticipating Abrupt Changes in Complex Networks: Significant Falls in the Price of a Stock Index](https://link.springer.com/chapter/10.1007/978-3-319-66766-9_11)
+
+
+#### Study of systemic risk
+
+
+#### Risk management methods
 
 
 ## Tutorials
