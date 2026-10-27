@@ -46,6 +46,7 @@ If this work is useful in your research, you may want to cite
 #### Supply chain networks
 
 - [Centrality of the Supply Chain Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2651786)
+- [LevelBench-100 Multi-Entity & Supply-Chain Financial Dataset](https://github.com/levelcfo/levelbench-100) - Open dataset modeling intercompany ledger networks, supplier-advance FIFO chains, and wholesale remittance graphs ([Documentation](https://levelcfo.com/benchmarks/agentic-accounting/)).
 
 #### Textual co-occurrence networks
 
